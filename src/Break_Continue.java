@@ -1,15 +1,13 @@
 public class Break_Continue {
     public static void main(String[] args)
     {
-        int i = 0;
-        while(true)
+        for (int i=0; i<=15; i++)
         {
-            if(i == 15)
+            if(i % 2 == 0)
             {
-                break;
+                continue;
             }
-            System.out.println(i);
-            i++;
+            System.out.println("number = " + i);
         }
     }
 }
