@@ -4,7 +4,7 @@ public class ClassesAndObjects {
         Person person1 = new Person();
 
         person1.setName("Alex new");
-        person1.setAge(29);
+        person1.setAge(-100);
         System.out.println(person1.getName());
         person1.speak();
         person1.sayHello();
@@ -19,7 +19,11 @@ class Person
 
     public void setName(String username)
     {
-        name = username;
+        if(username.isEmpty())
+        {
+            System.out.println("Empty name");
+        }
+        else name = username;
     }
 
     public String getName()
@@ -29,7 +33,12 @@ class Person
 
     public void setAge(int userAge)
     {
-        age = userAge;
+        if(userAge < 1)
+        {
+            System.out.println("Not valid age");
+        }
+        else
+            age = userAge;
     }
 
     public int getAge()
