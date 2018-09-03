@@ -2,7 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36deeafe-53b4-4681-b0b1-1952771bd2f2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ClassesAndObjects.java" afterPath="$PROJECT_DIR$/src/ClassesAndObjects.java" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lessons.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/lessons/Arrays.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/lessons/Arrays_of_Strings.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/lessons/Break_Continue.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/lessons/ClassesAndObjects.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/lessons/DoWhile.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/lessons/ForLoop.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/lessons/HelloWorld.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/lessons/Human.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/lessons/Multimdim_array.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/lessons/Person.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/lessons/Strings.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/lessons/Switch.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/lessons/WhileLoops.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/lessons/lesson20.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_of_Strings.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Break_Continue.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ClassesAndObjects.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/DoWhile.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ForLoop.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Multimdim_array.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Strings.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Switch.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/WhileLoops.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/lesson20.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,8 +136,8 @@
       <file leaf-file-name="lesson20.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lesson20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding>
                 <element signature="e#185#186#0" expanded="true" />
                 <element signature="e#217#218#0" expanded="true" />
@@ -161,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="825" />
@@ -427,8 +459,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="825" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="1" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -563,8 +594,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding>
             <element signature="e#185#186#0" expanded="true" />
             <element signature="e#217#218#0" expanded="true" />
