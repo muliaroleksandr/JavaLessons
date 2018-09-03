@@ -2,8 +2,10 @@ public class ClassesAndObjects {
     public static void main(String[] args)
     {
         Person person1 = new Person();
-        person1.name = "Alex";
-        person1.age = 30;
+
+        person1.setName("Alex new");
+        person1.setAge(29);
+        System.out.println(person1.getName());
         person1.speak();
         person1.sayHello();
 
@@ -12,8 +14,29 @@ public class ClassesAndObjects {
 
 class Person
 {
-    String name;
-    int age;
+    private String name;
+    private int age;
+
+    public void setName(String username)
+    {
+        name = username;
+    }
+
+    public String getName()
+    {
+        return name;
+    }
+
+    public void setAge(int userAge)
+    {
+        age = userAge;
+    }
+
+    public int getAge()
+    {
+        return age;
+    }
+
 
     void speak()
     {
